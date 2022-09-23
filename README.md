@@ -1,2 +1,1 @@
-# steffy
-portfolio
+# portfolio built using html, css and javascript
